@@ -4,4 +4,4 @@
 <h5> To gain deeper insights into the technical complexity of our model, we invite you to explore the detailed documentation provided. The comprehensive document offers a thorough understanding of the model's architecture, training methodologies, and performance metrics.</h5>
 <h5> https://docs.google.com/document/d/1BzjA1d3FLhmJtSIJ1veBZfptx059ZT498vsCvfu74TI/edit </h5>
 
-<img src="https://drive.google.com/file/d/1KWj8r_7ys428mElj4isfRxhBuFhlKPiU/view?usp=sharing" >
+<img src="https://drive.google.com/file/d/1KWj8r_7ys428mElj4isfRxhBuFhlKPiU/view?usp=sharing" alt="My Image">
