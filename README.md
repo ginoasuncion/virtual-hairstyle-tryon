@@ -1,4 +1,4 @@
-# AI-Powered Virtual Hairstyle Try-On with Barbershop Model
+# Virtual Hairstyle Try-On with Barbershop Model
 
 This repository contains code and resources for exploring the Barbershop model, which is designed for hairstyle transfer tasks. The Barbershop model was introduced by [Zhu et al.](https://arxiv.org/abs/2106.01505) in 2021 and utilizes StyleGAN2 for hairstyle transfer.
 
