@@ -1,8 +1,9 @@
-# Barbershop Model Exploration
+# AI-Powered Virtual Hairstyle Try-On with Barbershop Model
 
 This repository contains code and resources for exploring the Barbershop model, which is designed for hairstyle transfer tasks. The Barbershop model was introduced by [Zhu et al.](https://arxiv.org/abs/2106.01505) in 2021 and utilizes StyleGAN2 for hairstyle transfer.
 
-The Barbershop model has been tested on datasets featuring Thai actors/actresses and Thai friends from school. For detailed documentation on the testing procedures and results, refer to this [link.](https://docs.google.com/document/d/1BzjA1d3FLhmJtSIJ1veBZfptx059ZT498vsCvfu74TI/edit)
+## Documentation
+The Barbershop model has been tested on datasets featuring Thai actors/actresses and Thai friends from school as part of a school project in Harbour Space University. For detailed documentation on the testing procedures and results, refer to this [link.](https://docs.google.com/document/d/1BzjA1d3FLhmJtSIJ1veBZfptx059ZT498vsCvfu74TI/edit)
 
 ## Contents
 Explore the provided notebooks and scripts to analyze the Barbershop model's performance and behavior.
@@ -12,8 +13,6 @@ Explore the provided notebooks and scripts to analyze the Barbershop model's per
 - `scripts/`: Directory containing scripts for specific tasks such as data preprocessing.
 
 ## Sample Results
-
-Below are some sample results from the model exploration.
 
 <img width="1078" alt="Screenshot 2024-03-05 at 7 40 18 PM" src="https://github.com/ginoasuncion/virtual-hairstyle-tryon/assets/13530187/6e669ba0-81a8-4a81-931d-c41a34254fdf">
 
