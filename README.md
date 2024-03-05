@@ -1,4 +1,4 @@
-**Barbershop Model Exploration**
+# Barbershop Model Exploration
 
 This repository contains code and resources for exploring the Barbershop model, which is designed for hairstyle transfer tasks. The Barbershop model was introduced by Zhu et al. in 2021 and utilizes StyleGAN2 for hairstyle transfer.
 
@@ -14,3 +14,4 @@ Explore the provided notebooks and scripts to analyze the Barbershop model's per
 The Barbershop model has been tested on datasets featuring Thai actors/actresses and Thai friends from school. For detailed documentation on the testing procedures and results, refer to the model testing [documentation.](https://docs.google.com/document/d/1BzjA1d3FLhmJtSIJ1veBZfptx059ZT498vsCvfu74TI/edit)
 
 <img src="/image/screen.png" alt="Example Image">
+
